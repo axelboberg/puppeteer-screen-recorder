@@ -5,11 +5,14 @@
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
-  "repository": "https://github.com/prasanaworld/puppeteer-screen-recorder",
+  "repository": "https://github.com/axelboberg/puppeteer-screen-recorder",
   "author": {
     "name": "Prasana Kannan",
     "url": "https://www.linkedin.com/in/prasanakannan/"
   },
+  "contributors": [
+    "Axel Boberg (hello@axelboberg.se)"
+  ],
   "homepage": "https://prasanaworld.github.io/puppeteer-screen-recorder/",
   "license": "MIT",
   "keywords": [
