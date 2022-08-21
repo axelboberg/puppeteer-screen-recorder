@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 2.1.0 (2022-08-21)
+
+
+### Features
+
+* add autopad option on ffmpeg configuration ([6f53e21](https://github.com/prasanaworld/puppeteer-screen-recorder/commit/6f53e21cd76c24a3808d8af24a243234d6a09ddc))
+
 ### [2.0.2](https://github.com/prasanaworld/puppeteer-screen-recorder/compare/v2.0.0...v2.0.2) (2021-09-26)
 
 ### [2.0.1](https://github.com/prasanaworld/puppeteer-screen-recorder/compare/v1.1.12...v2.0.1) (2021-09-25)
